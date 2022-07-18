@@ -1,4 +1,4 @@
-package com.omilec.apps.eventhandlers;
+package com.jurado.apps.eventhandlers;
 
 import android.os.Handler;
 import android.util.Log;
@@ -6,10 +6,10 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-import com.omilec.apps.androidfunwithflags.MainActivityFragment;
-import com.omilec.apps.androidfunwithflags.R;
-import com.omilec.apps.androidfunwithflags.ResultsDialogFragment;
-import com.omilec.apps.lifecyclehelpers.QuizViewModel;
+import com.jurado.apps.androidfunwithflags.MainActivityFragment;
+import com.jurado.apps.androidfunwithflags.R;
+import com.jurado.apps.androidfunwithflags.ResultsDialogFragment;
+import com.jurado.apps.lifecyclehelpers.QuizViewModel;
 
 public class GuessButtonListener implements OnClickListener {
     private MainActivityFragment mainActivityFragment;

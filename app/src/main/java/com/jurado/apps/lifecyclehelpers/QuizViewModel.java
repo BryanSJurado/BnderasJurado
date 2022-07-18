@@ -1,4 +1,4 @@
-package com.omilec.apps.lifecyclehelpers;
+package com.jurado.apps.lifecyclehelpers;
 
 import android.arch.lifecycle.ViewModel;
 import android.content.res.AssetManager;

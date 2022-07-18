@@ -1,4 +1,4 @@
-package com.omilec.apps.androidfunwithflags;
+package com.jurado.apps.androidfunwithflags;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -28,10 +28,11 @@ import android.widget.TextView;
 import android.widget.TableLayout;
 import android.widget.TableRow;
 
-import com.omilec.apps.eventhandlers.GuessButtonListener;
-import com.omilec.apps.lifecyclehelpers.QuizViewModel;
+import com.jurado.apps.eventhandlers.GuessButtonListener;
+import com.jurado.apps.lifecyclehelpers.QuizViewModel;
 
-public class MainActivityFragment extends Fragment {
+public class
+MainActivityFragment extends Fragment {
 
     private SecureRandom random;
     private Animation shakeAnimation;

@@ -1,11 +1,11 @@
-package com.omilec.apps.eventhandlers;
+package com.jurado.apps.eventhandlers;
 
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.OnSharedPreferenceChangeListener;
 import android.widget.Toast;
 
-import com.omilec.apps.androidfunwithflags.MainActivity;
-import com.omilec.apps.androidfunwithflags.R;
+import com.jurado.apps.androidfunwithflags.MainActivity;
+import com.jurado.apps.androidfunwithflags.R;
 
 import java.util.Set;
 
